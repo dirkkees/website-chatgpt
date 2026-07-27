@@ -1,1 +1,35 @@
+<section class="hero">
 
+    <div class="hero-overlay"></div>
+
+    <div class="container hero-content">
+
+        <span class="hero-badge">
+            🇳🇱 Ontwikkeld in Nederland
+        </span>
+
+        <h1>
+            DE MOKERDOP DIE ÉCHT BLIJFT ZITTEN.
+        </h1>
+
+        <p>
+            Dankzij de innovatieve rubber vergrendelring blijft de
+            Mokerdop Pro stevig op uw hamer zitten en beschermt
+            uw bestrating en gereedschap.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="/shop" class="button button-primary">
+                Bestel direct
+            </a>
+
+            <a href="#zo-werkt-het" class="button button-secondary">
+                Bekijk hoe het werkt
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
